@@ -9,14 +9,10 @@ Create, update, complete, and delete tasks.
 Assign deadlines with live countdowns (Due in 2h, Overdue by 1d).
 Automatically categorize tasks as Ongoing, Success, or Failure.
 View real-time task status updates without page reloads.
-
 The project focuses on clean UI, real-time logic, and maintainable code architecture using React best practices.
 
 
-
-Tech Stack & Technical Choices
-
-Technology	
+Tech Stack & Technical Choices	
 
  React + Vite 
  Tailwind CSS	
