@@ -15,11 +15,17 @@ The project focuses on clean UI, real-time logic, and maintainable code architec
 Tech Stack & Technical Choices	
 
  React + Vite 
+ 
  Tailwind CSS	
+ 
  React Query 
+ 
  Axios	
+ 
  JSON Server	
+ 
  Date-fns	
+ 
  React Hot Toast 
 
 This stack ensures high performance, modular structure, and scalability — ideal for production-grade apps.
@@ -37,5 +43,7 @@ Key Features Implemented
 
 
  Author
+ 
  Mukesh 
+ 
  Frontend Developer | MERN Stack Enthusiast
