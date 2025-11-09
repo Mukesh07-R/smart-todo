@@ -1,16 +1,42 @@
-# React + Vite
+Smart Todo – Resollect Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Todo application built using the React + Vite stack, designed to help users efficiently manage their tasks with smart status tracking and real-time updates.
 
-Currently, two official plugins are available:
+Overview 
+Smart Todo is a productivity web app that allows users to:
+Create, update, complete, and delete tasks.
+Assign deadlines with live countdowns (Due in 2h, Overdue by 1d).
+Automatically categorize tasks as Ongoing, Success, or Failure.
+View real-time task status updates without page reloads.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project focuses on clean UI, real-time logic, and maintainable code architecture using React best practices.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Tech Stack & Technical Choices
+Technology	
+ React + Vite 
+ Tailwind CSS	
+ React Query 
+ Axios	
+ JSON Server	
+ Date-fns	
+ React Hot Toast 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This stack ensures high performance, modular structure, and scalability — ideal for production-grade apps.
+
+
+
+Key Features Implemented
+
+ Add / Edit / Delete / Complete tasks.
+ Deadline-based automatic status (Ongoing → Failure).
+ Real-time countdown refresh every 30 seconds.
+ Inline Add/Edit form with smooth focus experience.
+ Toast notifications for every action.
+ Responsive design with subtle shadows and transitions.
+
+
+ Author
+ Mukesh 
+ Frontend Developer | MERN Stack Enthusiast
