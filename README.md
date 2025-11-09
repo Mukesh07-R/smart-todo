@@ -3,6 +3,7 @@ Smart Todo – Resollect Assignment
 A modern, responsive Todo application built using the React + Vite stack, designed to help users efficiently manage their tasks with smart status tracking and real-time updates.
 
 Overview 
+
 Smart Todo is a productivity web app that allows users to:
 Create, update, complete, and delete tasks.
 Assign deadlines with live countdowns (Due in 2h, Overdue by 1d).
@@ -14,7 +15,9 @@ The project focuses on clean UI, real-time logic, and maintainable code architec
 
 
 Tech Stack & Technical Choices
+
 Technology	
+
  React + Vite 
  Tailwind CSS	
  React Query 
